@@ -53,12 +53,6 @@ Para dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
 
 Abaixo encontra-se a lista de requisitos solicitados para a elaboração do projeto.
 
-# Requisitos do projeto
-
-Monte queries para encontrar as informações esperadas pelos desafios:
-
-## Lista de Requisitos
-
 ## Desafios Iniciais
 
 #### 1 - Exiba apenas os nomes do produtos na tabela `products`.
