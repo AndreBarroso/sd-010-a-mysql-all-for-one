@@ -46,9 +46,9 @@ Cada query está nomeada como desafio1..27 e segue a numeração da lista de req
 1. Para executar as queries é necessário ter o MySQL instalado.
 Para informações sobre como instalar o MySQL [clique aqui](https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela?gclid=CjwKCAjwqeWKBhBFEiwABo_XBm8CpfHupnWmHRD1NMwJv8SBBYmkY0dqHSWa3KX6KOzLLUT5JfNh3BoCxXMQAvD_BwE).
 
-2. Com o MySQL pronto para uso, instale os bancos de dados. O códigos para a intalação de ambos estão presentes nos arquivos **Northwind**. Basta copiar para o seu MySQL.
+2. Com o MySQL pronto para uso, instale o banco de dados. O códigos para a sua instalação encontra-se presentes no arquivo **Northwind**. Basta copiar para o seu MySQL.
 
-3. Com os bancos de dados instalados, basta copiar a query desejada e executar no MySQL.
+3. Com o banco de dados instalado, basta copiar a query desejada e executar no MySQL.
 
 Para dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
 
