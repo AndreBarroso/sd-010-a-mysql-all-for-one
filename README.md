@@ -1,7 +1,7 @@
 # Boas vindas ao repositório do projeto All For One!
 No bloco em que se fez presente esse projeto, tive o meu primeiro contato com banco de dados. Nesse bloco foi introduzido os conceitos de banco de dados realacionais. Para o estudo de banco de dados relacionais, foi adotado o MySQL, por ser um dos mais difundidos no mercado de trabalho.
 
-Esse projeto tinha como objetivo, desenvolver uma série de querys para executar ações no bancos de dados **Northwind** fornecido.
+Esse projeto tinha como objetivo, desenvolver uma série de queries para executar ações no banco de dados **Northwind** fornecido.
 Dentre essas ações encontra-se: 
 - criar elementos em uma determinada tabela;
 -  deletar;
@@ -39,11 +39,16 @@ Dentre essas ações encontra-se:
 
 ---
 
-## Observações 
+## Instruções para executar as queries em seu próprio computador 
 
-O banco de dados fornecido para a execução desse projeto é de propriedade da escola Trybe.
-Porém, você pode visualizar todas as querys desenvolvidas na lista de arquivos acima.
 Cada query está nomeada como desafio1..27 e segue a numeração da lista de requisitos abaixo.
+
+1. Para executar as queries é necessário ter o MySQL instalado.
+Para informações sobre como instalar o MySQL [clique aqui](https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela?gclid=CjwKCAjwqeWKBhBFEiwABo_XBm8CpfHupnWmHRD1NMwJv8SBBYmkY0dqHSWa3KX6KOzLLUT5JfNh3BoCxXMQAvD_BwE).
+
+2. Com o MySQL pronto para uso, instale os bancos de dados. O códigos para a intalação de ambos estão presentes nos arquivos **Northwind**. Basta copiar para o seu MySQL.
+
+3. Com os bancos de dados instalados, basta copiar a query desejada e executar no MySQL.
 
 Para dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
 
